@@ -1,2 +1,2 @@
 # jan2022devops
-devops repo
+devops repo for learning
